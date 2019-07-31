@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "description": "A Node-RED node to use a IBM DB2 database",
   "dependencies": {
-    "ibm_db": "2.4.0",
+    "ibm_db": "2.5.3",
     "promise": "7.0.3"
   },
   "devDependencies": {},
